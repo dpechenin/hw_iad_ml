@@ -1,0 +1,9 @@
+**.vs/ 
+**out/
+**.idea/
+**cmake-build-debug/
+**cmake-build-release/
+**.DS_Store
+**build/
+**.vscode/
+**/.ipynb_checkpoints
